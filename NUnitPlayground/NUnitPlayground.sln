@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NUnitPlayground", "NUnitPlayground\NUnitPlayground.csproj", "{D516C000-751F-4461-BB84-AE21818FB524}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NUnitPlayground.Test", "NUnitPlayground.Test\NUnitPlayground.Test.csproj", "{F968C0A9-88BE-42F7-883D-D71FC920265B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D516C000-751F-4461-BB84-AE21818FB524}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D516C000-751F-4461-BB84-AE21818FB524}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D516C000-751F-4461-BB84-AE21818FB524}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D516C000-751F-4461-BB84-AE21818FB524}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F968C0A9-88BE-42F7-883D-D71FC920265B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F968C0A9-88BE-42F7-883D-D71FC920265B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F968C0A9-88BE-42F7-883D-D71FC920265B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F968C0A9-88BE-42F7-883D-D71FC920265B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

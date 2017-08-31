@@ -1,0 +1,9 @@
+Everything is OK path: 
+	- multiply 2 positive numbers and you get a positive number. Check
+	- multiply 2 negatives numbers and you get a positive number. Check		
+
+Error Case:
+	- inputNumber1 is negative 2 is positive
+	- inputNumber2 is negative 1 is positive
+	- inputNumber1 is 0
+	- inputNumber2 is 0
